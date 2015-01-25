@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: ¡¡Hello github blog!!
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png)
