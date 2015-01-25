@@ -5,6 +5,7 @@ title: ¡¡Hello github blog!!
 
 ![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png)
 
+Este es un nuevo blog que he alojado en github. No tiene un tema concreto, sino todo lo contrario. 
 
 Vamos a ver el proceso de crear un blog usando **[jekyll](http://jekyllrb.com/)**  (motor de publicación estático, es decir no necesita recompilar tus páginas, sino que existen los ficheros .html que se sirven, lo que lo hace mucho más rápido y cómodo. Ya he intentado montarlo antes, y hablado de ello **[elcacharreo](http://blog.elcacharreo.com/tag/jekyll/)** )
 
