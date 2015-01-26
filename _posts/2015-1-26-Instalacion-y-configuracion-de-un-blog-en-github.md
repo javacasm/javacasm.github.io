@@ -3,6 +3,8 @@ layout: post
 title: Intalación y configuración de un blog en github
 ---
 
+En este post vamos a ver cómo instalar un blog en la cuenta de github (ya hemos visto las [ventajas de hacerlo](http://javacasm.github.io/Hello-github-blog/)).
+
 ## Instalación
 
 Decir que me estoy inspirando en el blog de [fernand0](fernand0.github.io)
@@ -11,7 +13,7 @@ Decir que me estoy inspirando en el blog de [fernand0](fernand0.github.io)
 
 2. Cambiamos el nombre de nuestro repositorio (desde la opción settings) al que queremos que sea nuestro sub-dominio (colgando de github.io). En mi caso a javacasm.github.io  
 
-3. Editamos el fichero _config.yml y el about.md
+3. Editamos el fichero _config.yml (poniendo nuestro dados de contacto, configurando analytics, etc...) y el about.md
 
 4. A partir de ahora sólo hay que crear ficheros en la carpeta post con el formato **yyyy-m-dd-titulo.md** y recordar incluir la cabera en el formato
 
