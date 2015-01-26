@@ -7,7 +7,7 @@ title: ¡¡Hello github blog!!
 
 Este es un nuevo blog que he alojado en github. No tiene un tema concreto, sino todo lo contrario. 
 
-Voy a inaugurarlo viendo el proceso de creación usando **[jekyll](http://jekyllrb.com/)**  (motor de publicación estático, es decir no necesita recompilar tus páginas, sino que existen los ficheros .html que se sirven, lo que lo hace mucho más rápido y cómodo. Ya he intentado montarlo antes, y hablado de ello **[elcacharreo](http://blog.elcacharreo.com/tag/jekyll/)** )
+Voy a inaugurarlo viendo en este post el proceso de creación de un blog usando **[jekyll](http://jekyllrb.com/)**  (motor de publicación estático, es decir no necesita recompilar tus páginas, sino que existen los ficheros .html que se sirven, lo que lo hace mucho más rápido y cómodo. Ya he intentado montarlo antes, y hablado de ello **[elcacharreo](http://blog.elcacharreo.com/tag/jekyll/)** )
 
 ## ¿Por qué hacerlo?
 
@@ -29,3 +29,15 @@ Decir que para iniciar el proceso me estoy inspirando en el blog de [fernand0](f
 2. Cambiamos el nombre de nuestro repositorio (desde la opción settings) al que queremos que sea nuestro sub-dominio (colgando de github.io). En mi caso a javacasm.github.io  
 
 3. Editamos el fichero _config.yml y el about.md
+
+4. A partir de ahora sólo hay que crear ficheros en la carpeta post con el formato **yyyy-m-dd-titulo.md** y recordar incluir la cabera en el formato
+
+	---
+	layout: post
+	title: Blogging Like a Hacker
+	---
+
+5. En la carpeta **layout** tenemos 3 ficheros: default (con el formato de toda la página, donde podemos cambiar la cabecera, el pie o el aspecto en general), post (que será el aspecto cuando estemos visualizando un post concreto) y page (con la estrucrra de una página). En la cabera de cada post indicaremos el layout que queremos usar.
+
+
+Happy blogging !!
