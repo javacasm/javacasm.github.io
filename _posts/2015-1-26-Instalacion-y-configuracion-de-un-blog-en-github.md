@@ -20,7 +20,7 @@ Decir que me estoy inspirando en el blog de [fernand0](fernand0.github.io)
 		title: Blogging Like a Hacker
 		---
 
-Podemos usar etiquetas y otras opciones de visualización y clasificación con [otras marcas](http://jekyllrb.com/docs/frontmatter/)
+	Podemos usar etiquetas y otras opciones de visualización y clasificación con [otras marcas](http://jekyllrb.com/docs/frontmatter/)
 
 5. En la carpeta **layout** tenemos 3 ficheros: default (con el formato de toda la página, donde podemos cambiar la cabecera, el pie o el aspecto en general), post (que será el aspecto cuando estemos visualizando un post concreto) y page (con la estrucrra de una página). En la cabera de cada post indicaremos el layout que queremos usar.
 
