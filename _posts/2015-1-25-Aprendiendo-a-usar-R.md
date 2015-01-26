@@ -11,7 +11,7 @@ En su instalación normal nos proporciona una consola sobre la que trabajar, en 
 
 ## Instalación
 
-Para instalar ** R ** en ubuntu
+Para instalar **R** en ubuntu
 
 	sudo apt-get install r-base
 
