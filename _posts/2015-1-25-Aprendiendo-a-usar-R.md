@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¡¡Hello github blog!!
+title: Aprendiendo a usar R
 ---
 
 ## ¿Qué es R?
