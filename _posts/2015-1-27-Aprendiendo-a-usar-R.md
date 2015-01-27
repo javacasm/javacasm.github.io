@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Aprendiendo a usar R
-published: false
 ---
 
 ## ¿Qué es R?
