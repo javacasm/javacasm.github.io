@@ -68,9 +68,9 @@ En este cajón de sastre iré poniendo lo que vaya aprendido antes de estructura
 
 	 	grn.data$oS<-seq_along(grn.data$cont)/length(grn.data$cont)
 
-* **scale(x)** devuelve una columna con los valores centrados en la media [scale](https://stat.ethz.ch/R-manual/R-patched/library/base/html/scale.html)
+* **scale(x)** devuelve una columna con los valores centrados en la media )[scale](https://stat.ethz.ch/R-manual/R-patched/library/base/html/scale.html))
 
-* Para normalizar una columna al rango 0,1 hacemos [fuente](http://stackoverflow.com/questions/15468866/scaling-a-numeric-matrix-in-r-with-values-0-to-1):
+* Para normalizar una columna al rango 0,1 hacemos ([fuente](http://stackoverflow.com/questions/15468866/scaling-a-numeric-matrix-in-r-with-values-0-to-1)):
 
 		apply(m, MARGIN = 2, FUN = function(X) (X - min(X))/diff(range(X)))
 
@@ -109,7 +109,7 @@ En este cajón de sastre iré poniendo lo que vaya aprendido antes de estructura
 
 * Para representar un gráfico hacemos **plot(dataset$columanY,dataset$columnaY)** donde podemos usar cualquier operación matemática
 
-* Para guardar una imagen podemos hacer ggsave("image.png")
+* Para guardar una imagen podemos hacer ** ggsave("image.png") **
 
 * Para incluir varias series de valores con distintos tipos de puntos: 
 
