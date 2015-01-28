@@ -58,7 +58,7 @@ En este cajón de sastre iré poniendo lo que vaya aprendido antes de estructura
 
 ### Datos
 
-* **summary(granada.data)** Resumen de los datos _granada.data_
+* **summary(grn.data)** Resumen de los datos _grn.data_
 
 * **objects()**  muestra los datasets disponibles
 
@@ -66,7 +66,7 @@ En este cajón de sastre iré poniendo lo que vaya aprendido antes de estructura
 
 * Podemos añadir una columna sin más que utilizar **ataset$NuevaColumna<-funcion(otros datos)**. Por ejemplo
 
-	 	granada.data$orderScaled<-seq_along(granada.data$contributions)/length(granada.data$contributions)
+	 	grn.data$oS<-seq_along(grn.data$cont)/length(grn.data$cont)
 
 * **scale(x)** devuelve una columna con los valores centrados en la media [scale](https://stat.ethz.ch/R-manual/R-patched/library/base/html/scale.html)
 
@@ -76,7 +76,7 @@ En este cajón de sastre iré poniendo lo que vaya aprendido antes de estructura
 
 * Para normalizar una columna que es una secuencia entre 1 y n basta con hacer
 
-		granada.data$orderScaled<-seq_along(granada.data$contributions)/length(granada.data$contributions)
+		grn.data$oS<-seq_along(grn.data$cont)/length(grn.data$cont)
 
 * Los datasets usados se guardan en _.Rdata_ . Si guardamos el workspace al salir se irán guardando.
 
@@ -113,8 +113,8 @@ En este cajón de sastre iré poniendo lo que vaya aprendido antes de estructura
 
 * Para incluir varias series de valores con distintos tipos de puntos: 
 
-		qplot(zaragoza.data$orderScaled,log10(zaragoza.data$contributions)) + 
-		geom_point(aes(y=log10(almeria.data$contributions),x=almeria.data$orderScaled,color='almeria.data$contributions'))  
+		qplot(zrgz.data$oS,log10(zrgz.data$cont)) + 
+		geom_point(aes(y=log10(alm.data$cont),x=alm.data$oS,color='alm.cont'))  
 
 * Podemos hacer que se muestren los ejes en escala logarítmica usando el parámetro de plot **log="xy"** (para los dos ejes o log="x" para uno)
 
@@ -122,9 +122,9 @@ En este cajón de sastre iré poniendo lo que vaya aprendido antes de estructura
 
 ### Ajustes de datos
 
-* Podemos hacer una **regresión lineal** (linear model) usando ** lm(waiting ~ duration) ** y representar la línea con abline(lm(waiting ~ duration)) [detalles](http://msenux.redwoods.edu/math/R/regression.php) [abline](https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/abline.html). Podemos hacer que no se transforme ¿según los ejes? con ** untf='true' **
+* Podemos hacer una **regresión lineal** (linear model) usando ** lm(waiting ~ duration) ** y representar la línea con abline(lm(waiting ~ duration)) ([más detalles](http://msenux.redwoods.edu/math/R/regression.php)) ([abline](https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/abline.html)). Podemos hacer que no se transforme ¿según los ejes? con ** untf='true' **
 
-* Para ajustar por mínimos cuadrados ** [lsfit](https://stat.ethz.ch/R-manual/R-patched/library/stats/html/lsfit.html) ** [más detallado](http://sites.stat.psu.edu/~jls/stat511/lectures/lec10.pdf) 
+* Para ajustar por mínimos cuadrados ** [lsfit](https://stat.ethz.ch/R-manual/R-patched/library/stats/html/lsfit.html) ** ([más detallado](http://sites.stat.psu.edu/~jls/stat511/lectures/lec10.pdf)) 
 La diferencia entre ls y lsfit es que en lsfit tenemos que proporcionar la matriz del ajuste y en ls sólo damos los datos
 
 
