@@ -6,7 +6,7 @@ layout: post
 
 ## Idea 
 
-Se trata de aprovechar el tiempo durante el que haces ejercicio físico o viajas para escuchar contenidos que te interesan. Las caminatas/carreras/viajes y la tecnología actual (smartphone/android) son un tiempo ideal para releer/escuchar libros/podcast.
+Se trata de aprovechar el tiempo durante el que haces ejercicio físico o viajas para escuchar contenidos que te interesan. Las caminatas/carreras/viajes y la tecnología actual (smartphone/Android y alguna App) son un tiempo ideal para releer/escuchar libros/podcast.
 
 ## Material
 
