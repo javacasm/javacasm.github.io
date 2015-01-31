@@ -6,9 +6,11 @@ layout: post
 
 ## Idea 
 
-Aprovechando las caminatas/carreras/viajes y la tecnología actual (smartphone/android)  para releer/escuchar libros/podcast.
+Se trata de aprovechar el tiempo durante el que haces ejercicio físico o viajas para escuchar contenidos que te interesan. Las caminatas/carreras/viajes y la tecnología actual (smartphone/android) son un tiempo ideal para releer/escuchar libros/podcast.
 
 ## Material
+
+Veamos lo que necesitamos para hacerlo:
 
 * Smartphone: Puedes usar uno viejo que no utilizas y sin tarjeta sim, ya que no necesitas conectividad. Cualquier terminal obsoleto puede sirvirte. Así podrás no tendrás problemas de  roturas o pérdidas si corres.
 
@@ -22,4 +24,6 @@ Aprovechando las caminatas/carreras/viajes y la tecnología actual (smartphone/a
 
 	Uso estas aplicaciones porque las dos permiten reproducir con una voz sintética los contenidos que me interesan. También me gusta mucho que ambas tienen un modo nocturno muy útil cuando lees a oscuras en la cama.
 
-* Contenidos Se trata de encontrar contenidos que te interesen y que sean cómodos de escuchar. Personalmente he oido de todo: desde novelas hasta libros de divulgación científica.
+* Contenidos Se trata de encontrar contenidos que te interesen y que sean cómodos de escuchar. Personalmente he oido de todo: desde novelas (los 15 libros de la serie Fundación y Robots de Asimov) hasta libros de divulgación científica (como Cosmos o Breve Historio de casi todo de Bill Bryson).
+
+Para mi ha sido una estupenda forma de aprovechar doblemente el tiempo, haciendo más apetecibles actividades físicas.
