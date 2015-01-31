@@ -1,6 +1,6 @@
 ---
-tittle: escuchando/leyendo mientras caminas
-publised: false
+title: Escuchando/leyendo mientras caminas/corres/viajas
+layout: post
 ---
 
 
