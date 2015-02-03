@@ -28,6 +28,8 @@ Veamos los pasos
 
 	Tras lo cual tendremos una carpeta _site que será el blog propiamente.
 
+* Retocamos la configuración de los layout (en la carpeta **_layout**) y del blog en **_cfb.yml**.
+
 * Para facilitar la publicación desde mi máquina, o desde cualquier otra, he creado un repositorio github con el contenido del blog. De esta manera puedo actualizar fácilmente desde cualquier sitio y tengo una copia de respaldo.
 
 * Quedan pendientes algunos temas:
@@ -36,3 +38,5 @@ Veamos los pasos
 	* En concreto, las imágenes que no descargan y que tendremos que descargar y enlazar a la nueva dirección.
 	* Podemos trabajar las etiquetas (Tag) y categorías. Para ello podemos usar las [etiquetas de publicación de jekyll](http://import.jekyllrb.com/docs/wordpress/).
 	* Añadir [widgets con las etiquetas](http://blog.meinside.pe.kr/Adding-tag-cloud-and-archives-page-to-Jekyll/) o los posts más visitados para completar el blog.
+
+Podéis ver el resultado del [elCacharreo 2.0](http://static.elcacharreo.com) (muy espartano de momento)
