@@ -12,8 +12,6 @@ comments: []
 
 ---
 
-# Montando un blog con jekyll
-
 Cansado de tantos problemas de rendimiento y mantenimiento de wordpress he decidido migrar a un sistema más sencillo de mantener y sobre todo rápido, sin depender de infraestructura, con vistas a poder user un hosting doméstico (sí en casa, que 100Mb de subida dan para mucho :) )
 
 Veamos los pasos
