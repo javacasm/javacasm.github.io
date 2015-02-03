@@ -3,7 +3,7 @@
 title: Montando un blog con jekyll
 layout: post
 status: publish
-published: false
+published: true
 categories: []
 
 tags: []
