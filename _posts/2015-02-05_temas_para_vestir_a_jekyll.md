@@ -1,7 +1,6 @@
 ---
 title: Añadiendo temas a jekyll
 layout: post
-published: true
 ---
 
 El aspecto que utila jekyll al sacarlo de la caja no es que sea de ganar un premio.
