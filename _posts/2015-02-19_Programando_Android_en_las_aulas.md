@@ -2,14 +2,6 @@
 title: Programando Android en las aulas
 layout: post
 status: publish
-published: true
-categories: []
-
-tags: []
-
-comments: []
-
-
 ---
 
 
