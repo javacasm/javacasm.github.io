@@ -1,11 +1,11 @@
 --- 
-title: Robótica
+title: Robótica educativa: robót móvil y brazo robótico
 layout: post
 status: publish
 published: true
 categories: [cursos]
 
-tags: [android,cursos]
+tags: [robot, cursos]
 
 comments: []
 
