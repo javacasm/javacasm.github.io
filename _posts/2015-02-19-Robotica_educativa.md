@@ -41,9 +41,7 @@ En este curso hemos trabajado los 3 pilares de la robótica:
 
 ### Objetivo de la formación
 
-Se ha elegido la plataforma Android por ser la más utilizada hoy en día y porque además se puede realizar todo el ciclo de desarrollo con herramientas totalmente gratuitas, además de que las mismas están disponibles para todos los sistemas operativos habituales hoy en día (Linux, Windows y MacOs)
-
-En este curso hemos trabajado con las últimas herramientas disponibles, [Android Studio](http://developer.android.com/sdk/index.html), estudiándose el procedimiento de instalación así como las actividades de actualización recomendables
+Se ha elegido la plataforma Arduino por ser la más utilizada hoy en día y porque además se puede realizar todo el ciclo de desarrollo con herramientas totalmente gratuitas, las mismas están disponibles para todos los sistemas operativos habituales hoy en día (Linux, Windows y MacOs)
 
 Todos los materiales creados y utilizados están disponibles online en diversos formatos, con licencias abiertas y libres CC, lo que facilita su acceso además de fomentar entre los docentes el hábito de compartir los materiales didácticos. Podemos encontrar una introducción al curso en [Robótica educativa](https://www.swipe.to/0558ck), la parte teórica de los [Robot móviles](https://swipe.to/1537cb) y el [Brazo robot](https://swipe.to/0094cr).
 
