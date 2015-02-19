@@ -1,7 +1,6 @@
 ---
 title: Programando Android en las aulas
-layout: default
-published: true
+layout: post
 ---
 
 ### Punto de partida
