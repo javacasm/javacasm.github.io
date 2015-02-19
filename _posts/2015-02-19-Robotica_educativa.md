@@ -15,19 +15,23 @@ comments: []
 
 Existe un enorme interés por parte de todos los profesionales relacionados con las TIC por la robótica. Hoy en día tenemos la enorme suerte de que las herramientas que nos permiten crear robots han llegado a tal punto de desarrollo que se han hecho asequibles a un público que ya no tiene que estar enormemente especializado. Lo que antes tenía que hacer un ingeniero en un laboratorio, ahora lo podemos desarrollar en casa con herramientas sencillas y a un coste reducido, con una formación básica y algo de empeño.
 
-Gran parte de este enorme avance se debe a la difusión de herramientas libres, de código abierto que cualquiera puede obtener y hasta mejorar. Esta filosofía ha calado hondo en multitud de usuarios difundiendo como nunca conocimientos, herramientas y proyectos.
+Gran parte de este enorme avance se debe a la difusión de herramientas libres, de código abierto que cualquiera puede obtener y hasta mejorar. Esta filosofía ha calado hondo en multitud de usuarios difundiendo como nunca conocimientos, herramientas y proyectos. 
 
 Los docentes no son ajenos a este atractivo, y son conscientes de lo atractivo que es para los alumnos todo lo relacionado con la programación, la electrónica y la robótica.
+
+Este curso continúa donde termino el anterior (Robótica I) donde se sentaron las bases para poder desarrollar proyectos más complejos.
 
 ### Resultados
 
 En este curso hemos trabajado los 3 pilares de la robótica: 
 
 ![bitbloq](http://diwo.bq.com/wp-content/uploads/2014/12/bitbloq_led_ir.png)
+
 * La programación, para lo que se ha usado un entorno de programación visual llamado [bitbloq](http://bitbloq.bq.com) que facilita enormemente el aprendizaje, a la vez que nos introduce con facilidad en la programación más avanzada.
 
 ![electrónica](http://www.seeedstudio.com/wiki/images/thumb/1/1c/Twig-Light.jpg/400px-Twig-Light.jpg)
-* Le electrónica y la mecánica, para lo que hemos usado pequeños módulos electronicos y motores integrados (servos) que nos facilitan la manipulacion enormemente. Siguiendo unos esquemas sencillos es posible
+
+* Le electrónica y la mecánica, para lo que hemos usado pequeños módulos electronicos y motores integrados (servos) que nos facilitan la manipulacion enormemente. Siguiendo unos esquemas sencillos es posible desarrollar proyectos complejos capaces de interaccionar con el entorno. Como cerebro de los proyectos se ha utilizado una placa [Arduino](http://arduino.cc), paradigma del movimiento open-hardware y ejemplo de éxito.
 
 ![movil](https://lh6.googleusercontent.com/-pIBRVTqxdRc/VOZdq0tY0dI/AAAAAAAAzvY/vUH4p_P9QNI/w1101-h743-no/Captura%2Bde%2Bpantalla%2Bde%2B2015-02-19%2B22%3A59%3A47.png)
 * El diseño 3D que nos ha permitido usar piezas diseñadas especificamente para nuestros modelos y que con un sencillo ensamblaje han permitido hacer robot móviles y brazos robóticos.
