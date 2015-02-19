@@ -1,7 +1,7 @@
 --- 
 title: Robótica educativa: robót móvil y brazo robótico
 layout: post
-status: publish
+status: published
 published: true
 categories: [cursos]
 
