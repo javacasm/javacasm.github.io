@@ -1,6 +1,6 @@
 ---
 title: Programando Android en las aulas
-layout: post
+layout: default
 published: true
 ---
 
