@@ -3,6 +3,7 @@ title: Programando Android en las aulas
 layout: post
 ---
 
+
 ### Punto de partida
 
 Existe un enorme interés por parte de todos los profesionales relacionados con las TIC por el desarrollo de aplicaciones para los hoy ubícuos Smartphones.
