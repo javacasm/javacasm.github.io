@@ -1,12 +1,11 @@
 --- 
-
-title: Montando un blog con jekyll
+title: Programando Android en las aulas
 layout: post
 status: publish
 published: true
-categories: []
+categories: [cursos]
 
-tags: []
+tags: [android,cursos]
 
 comments: []
 
