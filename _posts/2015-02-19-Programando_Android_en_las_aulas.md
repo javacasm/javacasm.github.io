@@ -1,6 +1,15 @@
----
-title: Programando Android en las aulas
+--- 
+
+title: Montando un blog con jekyll
 layout: post
+status: publish
+published: true
+categories: []
+
+tags: []
+
+comments: []
+
 ---
 
 
