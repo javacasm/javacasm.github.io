@@ -1,5 +1,5 @@
 --- 
-title: Robótica educativa: robót móvil y brazo robótico
+title: Robótica educativa robót móvil y brazo robótico
 layout: post
 status: published
 published: true
@@ -10,7 +10,6 @@ tags: [robot, cursos]
 comments: []
 
 ---
-
 
 ### Punto de partida
 
