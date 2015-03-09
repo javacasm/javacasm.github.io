@@ -1,7 +1,14 @@
 ---
 title: No entiendo lo de las patentes
 layout: post
+status: published
 published: true
+categories: []
+
+tags: [spacex]
+
+comments: []
+
 ---
 ![spaceX](http://img.washingtonpost.com/blogs/the-switch/files/2015/03/droneship.jpg)
 
