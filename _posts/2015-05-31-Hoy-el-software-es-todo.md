@@ -10,6 +10,7 @@ tags: [tesla]
 comments: []
 
 ---
+![update](http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/System-software-update.svg/1024px-System-software-update.svg.png)
 
 Hay quien dice que hoy en día todo es software
 
