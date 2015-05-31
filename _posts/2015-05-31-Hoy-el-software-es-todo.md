@@ -1,4 +1,18 @@
-#Hoy en dia el software lo controla todo
+---
+title: Hoy en dia el software lo controla todo
+layout: post
+status: published
+published: true
+categories: []
+
+tags: [spacex]
+
+comments: []
+
+---
+
+
+# Hoy en dia el software lo controla todo
 
 
 
