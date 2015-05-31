@@ -1,5 +1,5 @@
 ---
-title: Hoy en dia el software lo controla todo
+title: Hoy en día el software lo controla todo
 layout: post
 status: published
 published: true
@@ -17,7 +17,7 @@ Hay quien dice que hoy en día todo es software
 Nos encontramos con que coche de Fórmula 1, la que se supone que es el máximo exponente de la tecnología sobre ruedas, no arranca por un problema de software.
 Integramos todos los componentes de un sistema enormemente complejo  y esperamos que la centralita (el ordenador que controla todo) sea capaz, cual director de orquesta, de hacer que todos ellos cumplan su cometido.
 
-Hay veces que un sensor no mide bien la magnitud que se espera, otras veces un módulo de software espera el valor en un formato y otro módulo al que está conectado se le envía en otro formato. Un ejemplo de esto es el malogrado lanzamiento de un cohete Arianne 5 ¿FECHA?. El motivo final, según el [informe](http://sunnyday.mit.edu/accidents/Ariane5accidentreport.html) fue que 2 grupos de ingenieros no se pusieron de acuerdo en cuanto al formato de medida del ángulo de inclinación dando como resultado que el sistema de ajuste de inclinación intentaba enderezar una inexistente inclinación. El resultado final la perdida de un cohete ¿y su carga útil? valorado en ¿798989898?
+Hay veces que un sensor no mide bien la magnitud que se espera, otras veces un módulo de software espera el valor en un formato y otro módulo al que está conectado se le envía en otro formato. Un ejemplo de esto es el malogrado lanzamiento de un cohete Arianne 5 del 4 de Junio de 1996. El motivo final, según el [informe](http://sunnyday.mit.edu/accidents/Ariane5accidentreport.html) fue que 2 grupos de ingenieros no se pusieron de acuerdo en cuanto al formato de medida del ángulo de inclinación (un número flotante de 64 bits que desboardaba el entero de 16 bits que esperaba el otro sistema) dando como resultado que el sistema de ajuste de inclinación intentaba enderezar una inexistente inclinación. El resultado final la perdida de un cohete y su carga útil.
 
 También se han producido errores similares debidos a errores en las unidades de las medidas (el viejo problema de lusar unidades ¿imperiales? en el mundo anglosajón frente a las unidades internacionales del resto del mundo.
 
