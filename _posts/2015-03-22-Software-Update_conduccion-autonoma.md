@@ -1,5 +1,5 @@
 ---
-title: Hoy en dia el software lo controla todo
+title: "Software update y conducción autónoma"
 layout: post
 status: draft
 published: false
