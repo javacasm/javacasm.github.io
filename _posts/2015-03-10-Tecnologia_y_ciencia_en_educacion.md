@@ -1,3 +1,16 @@
+---
+title: "Tecnología y ciencia en educación"
+layout: post
+status: draft
+published: false
+categories: []
+
+tags: [educación, tecnología]
+
+comments: []
+
+---
+
 ### Mi proyecto
 
 * Formación tecnológica y científica de los docentes
