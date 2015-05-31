@@ -12,10 +12,6 @@ comments: []
 ---
 
 
-# Hoy en dia el software lo controla todo
-
-
-
 Hay quien dice que hoy en día todo es software
 
 Nos encontramos con que coche de Fórmula 1, la que se supone que es el máximo exponente de la tecnología sobre ruedas, no arranca por un problema de software.
