@@ -21,7 +21,7 @@ Hay veces que un sensor no mide bien la magnitud que se espera, otras veces un m
 
 También se han producido errores similares debidos a errores en las unidades de las medidas (el viejo problema de lusar unidades ¿imperiales? en el mundo anglosajón frente a las unidades internacionales del resto del mundo.
 
-Un paso en esta escalada en la relevancia del software nos llega cuando fabricantes de tractores como ¿John Deree? o de coches como ¿? anuncian que la compra de uno de sus vehículos  no es otra cosa que una licencia de uso temporal de su software, los que puede a significar que valoran el software forma encima del software, algo nunca visto hasta ahora o bien que pretenden usar este artificio para conseguir retener la propiedad de algo que antes era del cliente.
+Un paso en esta escalada en la relevancia del software nos llega cuando fabricantes de tractores como John Deree o de coches como General Motors anuncian que la compra de uno de sus vehículos  no es otra cosa que una licencia de uso temporal de su software, los que puede a significar que valoran el software forma encima del software, algo nunca visto hasta ahora o bien que pretenden usar este artificio para conseguir retener la propiedad de algo que antes era del cliente.
 
 A día de hoy también nos encontramos con unas noticias que demuestran aun más este concepto. Se trata de productos que el fabricante vende con unas determinadas funcionalidades y que amplía una posterior actualización del mismo.
 
