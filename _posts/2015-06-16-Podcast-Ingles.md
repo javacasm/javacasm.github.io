@@ -1,6 +1,11 @@
 ---
-title: Escuchando/leyendo mientras caminas/corres/viajas
+title: Podcast en Ingles
 layout: post
 published: false
 ---
-2015-06-16-Podcast-Ingles.md
+
+http://www.mosalingua.com/es/los-mejores-podcast-para-aprender-ingles/
+
+http://ingles.fm/tema/ingles-intermedio
+
+http://www.anexom.es/tecnologia/guia-y-trucos/siete-podcasts-para-aprender-ingles/
